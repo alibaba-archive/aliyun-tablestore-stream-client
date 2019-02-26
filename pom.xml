@@ -14,8 +14,8 @@
         </license>
     </licenses>
     <scm>
-        <url></url>
-        <connection></connection>
+        <url/>
+        <connection/>
     </scm>
     <developers>
         <developer>
@@ -39,7 +39,7 @@
         <dependency>
             <groupId>com.aliyun.openservices</groupId>
             <artifactId>tablestore</artifactId>
-            <version>4.3.1</version>
+            <version>4.10.1</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
